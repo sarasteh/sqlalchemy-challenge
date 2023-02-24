@@ -20,7 +20,7 @@ The API has the following routes:
 
 ### 5. /api/v1.0/<start_date>/<end_date>
 > For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
-> (example: /api/v1.0/2016-11-09)
+> (example: /api/v1.0/2016-11-09/2017-01-09)
 ---------------------------
 
        
